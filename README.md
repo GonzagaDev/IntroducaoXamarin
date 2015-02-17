@@ -1,5 +1,7 @@
 Link para o vídeo: https://www.youtube.com/watch?v=TaLkPQ4ZCUw
 
+Para ficar por dentro das novidades assine meu canal no Youtube: http://www.youtube.com/angelobelchior
+
 Desenvolvimento Mobile: Introdução ao Xamarin
 
 Xamarin é uma plataforma de desenvolvimento que permite criar aplicações multi-plataforma utilizando C# de forma nativa. Compartilhe código C# entre iOS, Android e Windows Phone.
