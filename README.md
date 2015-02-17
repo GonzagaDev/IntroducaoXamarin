@@ -1,4 +1,4 @@
-Link para o vídeo: https://www.youtube.com/watch?v=TaLkPQ4ZCUw
+[![ScreenShot](http://img.youtube.com/vi/b7a0mJHav2U/0.jpg)](https://www.youtube.com/watch?v=TaLkPQ4ZCUw)
 
 Para ficar por dentro das novidades assine meu canal no Youtube: http://www.youtube.com/angelobelchior
 
